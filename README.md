@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/iagodsv/iagodsv/blob/output/dist/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/iagodsv/iagodsv/output/dist/snake.svg)
